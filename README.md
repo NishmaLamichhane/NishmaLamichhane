@@ -37,7 +37,7 @@
 
   <h3>📫 **How to Reach Me:**</h3>
   <pre>
-  📩 Email: lsud_bca2079@lict.edu.np
+  📩 Email: nila_bca2079@lict.edu.np
   </pre>
 
   <h3>⚡ **Fun Fact:**</h3>
